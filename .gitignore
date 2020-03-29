@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+backup-data/
+package-lock.json
+yuque.http

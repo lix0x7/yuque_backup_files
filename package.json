@@ -1,0 +1,15 @@
+{
+  "name": "yuque_backuper",
+  "version": "1.0.0",
+  "description": "Backup yuque content to local disks and run as scheduled script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lix7",
+  "license": "ISC",
+  "dependencies": {
+    "@yuque/sdk": "^1.1.1",
+    "lodash": "^4.17.15"
+  }
+}
